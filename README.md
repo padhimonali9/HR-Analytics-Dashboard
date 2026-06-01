@@ -42,7 +42,7 @@ TechIT Solutions was experiencing increasing employee attrition with no clear vi
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard]("")
+![HR Attrition Dashboard]("Dashboard.png")
 
 ---
 
